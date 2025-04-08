@@ -60,5 +60,4 @@ Feel free to explore my repositories — they showcase both my current learning 
 
 ### 💡 Create Your Own
 
-🚀 Want to create a cool `README.md` like this one? Check out my GitHub Readme Generator:  
-👉 [Streamlit App](https://mahnazghssm-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/)
+⚡ To generate a `README.md` file like this for your profile, check out the [GitHub Readme Generator](https://mahnazghssm-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/) 🚀
