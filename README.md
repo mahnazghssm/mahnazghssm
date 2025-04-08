@@ -58,27 +58,6 @@ Feel free to explore my repositories — they showcase both my current learning 
 
 ---
 
-### 📊 Activity Overview
-
-Here’s a snapshot of my overall GitHub activity:
-
-- **Total Commits in the Last Year:** [Commit Count](https://github.com/mahnazghssm?tab=contributions)
-- **Contribution Activity:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahnazghssm&show_icons=true&count_private=true&hide_title=true)
-
----
-
-### 📝 Contributions
-
-A summary of my contributions over the past year:
-
-- 🔥 **Total Commits:** [Commit Count](https://github.com/mahnazghssm?tab=contributions)
-- 🌱 **Repositories Contributed To:** [Repositories List](https://github.com/mahnazghssm?tab=repositories)
-
-For recent activity and pull requests, check out my GitHub profile:  
-👉 [GitHub Profile](https://github.com/mahnazghssm)
-
----
-
 ### 💡 Create Your Own
 
 🚀 Want to create a cool `README.md` like this one? Check out my GitHub Readme Generator:  
